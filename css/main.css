@@ -1,0 +1,11 @@
+.vocab {
+  color: blue;
+  font-size: 25px;
+  font-weight: bold;
+}
+.pronuciation {
+  font-style: italic;
+}
+hr {
+  border-top: 10px;
+}
